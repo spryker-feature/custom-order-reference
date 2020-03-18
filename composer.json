@@ -1,0 +1,16 @@
+{
+  "name": "spryker-feature/custom-order-reference",
+  "description": "Custom order reference [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.2"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2018.x-dev"
+    }
+  }
+}
