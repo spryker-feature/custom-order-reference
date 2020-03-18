@@ -1,6 +1,6 @@
 {
   "name": "spryker-feature/custom-order-reference",
-  "description": "Custom order reference [feature]",
+  "description": "Custom Order Reference [feature]",
   "type": "metapackage",
   "license": "proprietary",
   "minimum-stability": "dev",
