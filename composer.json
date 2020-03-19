@@ -6,11 +6,14 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2"
+    "php": ">=7.2",
+    "spryker-shop/order-custom-reference-widget": "^1.0.0",
+    "spryker/order-custom-reference": "^1.0.0",
+    "spryker/order-custom-reference-gui": "^1.0.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "2018.x-dev"
+      "dev-master": "202006.x-dev"
     }
   }
 }
