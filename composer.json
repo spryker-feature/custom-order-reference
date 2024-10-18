@@ -1,19 +1,19 @@
 {
-  "name": "spryker-feature/custom-order-reference",
-  "description": "Custom Order Reference [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.2",
-    "spryker-shop/order-custom-reference-widget": "^1.0.0",
-    "spryker/order-custom-reference": "^1.0.0",
-    "spryker/order-custom-reference-gui": "^1.0.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/custom-order-reference",
+    "description": "Custom Order Reference [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.1",
+        "spryker-shop/order-custom-reference-widget": "^1.0.0",
+        "spryker/order-custom-reference": "^1.0.0",
+        "spryker/order-custom-reference-gui": "^1.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202407.x-dev"
+        }
     }
-  }
 }
